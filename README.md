@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**iitsnada/iitsnada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Nada 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Cybersecurity Student | Aspiring Security Researcher</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Student-00C853?style=for-the-badge" />
+</p>
+
+---
+
+### 👩🏻‍💻 About Me
+
+- 🎓 Cybersecurity undergraduate student.
+- 🔐 Exploring the world of cybersecurity.
+- 🌱 Building my technical foundation through hands-on practice.
+- 🎯 Interested in ethical hacking, network security, and security research.
+
+### 🛠️ Currently Learning
+
+- Linux
+- Computer Networking
+- Python Programming
+- Web Security
+- Cybersecurity Fundamentals
+
+### 🧪 Hands-on Practice
+
+- TryHackMe Labs
+- CTF Challenges
+- Personal Security Projects
+
+### 📌 My Goal
+
+To build strong technical skills, gain practical experience, and grow into a cybersecurity professional.
+
+---
+
+<p align="center">
+  <i>Learn. Practice. Break. Secure. Repeat. 🔐</i>
+</p>
